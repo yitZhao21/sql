@@ -54,7 +54,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 overwrites, type 2 retain changes.
+![image](https://github.com/user-attachments/assets/168c0c28-03f0-48f6-bc09-d1536f7b78eb)
+
 ```
 
 ***
@@ -182,5 +184,9 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+AI is impressive, no doubt. It can write essays, generate images, and even play chess at a level no human can match. But for all its power, AI is not a replacement for humans. At best, it's a tool—an incredibly advanced one—that automates some tasks and makes life easier. But ultimately I do not believe it will replace humanity.
+
+AI works by averaging human intelligence. Language models, for example, don’t think or create in the way we do—they just predict the most statistically likely next word based on their training data. It is more about pattern recognition than creativity. Real human creativity isn’t about being the average of everything that’s been said before—it’s about doing something new, something unique. That’s why AI-generated content often feels predictable. It’s good at remixing, but not at originality. Humans may sometimes create out of averaging as well, but we are also capable of thinking outside the box and use our unique experiences to create contents.. Our best ideas don’t come from statistics; they come from insight, emotion, and experience.
+
+That doesn’t mean AI won’t change the world. Just like the internet movement decades ago, some changes are inevitable. Jobs will shift, industries will evolve, and some tasks we used to do will become automated, which may be both liberating and scarry at first. Humans are incredibly adaptable. I do believe we shall live through these technological revolutions. The key is making sure we guide this change in a way that benefits people. AI comes with real challenges—bias in algorithms, misinformation, ethical concerns—but those aren’t reasons to fear it. If it is an average of humanity, it will also come with the flaws humans have. They’re reasons to engage with it critically, to push for responsible development, and to make sure we’re using it in a way that actually helps humanity rather than just maximizing profits or efficiency.
 ```
